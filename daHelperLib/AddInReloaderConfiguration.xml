@@ -1,0 +1,9 @@
+﻿<AddInReloaderConfiguration>
+  <WatchedAddIn Path="C:\Users\ALBEC\Defacto Analytics Aps\Gustav Rasmussen - New folder\Visual Studio\ALBEC Repos\dskLibrary\dskAnalyticsExcel\bin\x86\Release\dskAnalyticsExcel64.xll" >
+    <WatchedFile Path="C:\Users\ALBEC\Defacto Analytics Aps\Gustav Rasmussen - New folder\Visual Studio\ALBEC Repos\dskLibrary\dskAnalyticsExcel\bin\x86\Release\daLib.dll" />
+  </WatchedAddIn>
+  <!--<WatchedAddIn Path="OtherAddIn.xll" >
+    <WatchedFile Path="zzz" />
+    <WatchedFile Path="qqq" />
+  </WatchedAddIn>-->
+</AddInReloaderConfiguration>
